@@ -17,7 +17,7 @@ This repository contains one assessment instrument for the **operations** domain
 | **Facilitator required** | Yes |
 | **Maturity target** | `dea:maturity-operations` |
 | **Owner** | Head of Operations / SRE Lead |
-| **Version** | 1.0.0-alpha |
+| **Version** | 1.1.0-alpha |
 
 ---
 
