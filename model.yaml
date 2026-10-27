@@ -10,7 +10,7 @@ description: >-
   EA assessment instrument for the operations domain: incident response,
   observability, deployment automation, SLOs, SRE practices. Scores
   against the dea:maturity-operations model.
-version: 1.0.0-alpha
+version: 1.1.0-alpha
 conformance:
   contract:
     id: opendea-assessment-metamodel
